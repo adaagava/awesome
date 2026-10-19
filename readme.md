@@ -710,6 +710,7 @@
 
 ## Testing
 
+- [Agent Factory](https://github.com/Ursa-Minor-Beta/agent-factory-docker-api-ui) - open-source studio for building, editing and running AI agents. The ready-made QA agents are available in the shared agents-store repo.
 - [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
 - [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
